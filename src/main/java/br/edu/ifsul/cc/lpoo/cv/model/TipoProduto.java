@@ -1,0 +1,6 @@
+package br.edu.ifsul.cc.lpoo.cv.model;
+
+public enum TipoProduto {
+
+    MEDICAMENTO, SESSAO_FISIOTERAPIA, SESSAO_ADESTRAMENTO, ATENDIMENTO_ANGULATORIAL, CONSULTA, CONSULTA_REVISAO
+}
